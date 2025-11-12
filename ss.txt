@@ -1,0 +1,11 @@
+git config --global user.email "email"
+git config --global user.name "nick"
+
+
+
+"files.autoSave": "afterDelay",
+    "git.ignoreMissingGitWarning": true,
+    "git.path": "G:/win32app/git_portable/cmd/git.exe",
+    "git.enabled": true,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,

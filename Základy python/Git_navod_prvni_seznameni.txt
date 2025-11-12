@@ -1,4 +1,4 @@
-=== Pokud se vám otevře divný textový editor v terminálu (Vim) ===
+git=== Pokud se vám otevře divný textový editor v terminálu (Vim) ===
 - stisknete Esc
 - napište :wq 
 - potvrďte entrem
